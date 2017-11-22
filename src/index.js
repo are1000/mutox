@@ -1,5 +1,7 @@
 import 'babel-polyfill'
 
+import equals from 'shallow-equals'
+
 export function clone (item) {
   if (!item) { return item }
 
