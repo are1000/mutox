@@ -1,0 +1,27 @@
+{
+  "name": "mutox",
+  "version": "1.0.0",
+  "description": "Functional state management library",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/are1000/mutox.git"
+  },
+  "keywords": [
+    "functional",
+    "fp",
+    "state",
+    "management",
+    "redux",
+    "mobx"
+  ],
+  "author": "Artur Wojciechowski <me@iama.re> (http://iama.re)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/are1000/mutox/issues"
+  },
+  "homepage": "https://github.com/are1000/mutox#readme"
+}
