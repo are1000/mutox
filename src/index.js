@@ -1,3 +1,5 @@
+import 'babel-polyfill'
+
 const compose = (...functions) => async value => {
   let result = value
 
